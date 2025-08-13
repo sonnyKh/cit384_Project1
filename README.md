@@ -15,4 +15,4 @@ It showcases HTML/CSS layout, navigation, and thematic branding.
 - CSS3
 
 ## Live Demo
-[View on GitHub Pages](https://sonnykh.github.io/cit384_Project1/)
+[View Sana's Casino](https://sonnykh.github.io/cit384_Project1/)
